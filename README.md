@@ -1,7 +1,6 @@
 # BAI
-## Quick Start
 
-### 0. Install PyTorch and other dependencies
+###0. Install PyTorch and other dependencies
 
 ```bash
 pip install -r requirements.txt
